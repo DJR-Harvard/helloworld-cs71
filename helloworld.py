@@ -1,3 +1,5 @@
+# David Rasmussen
+# CS71 6/25/2024
 import sys
 
 if len(sys.argv) < 2:
